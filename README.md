@@ -14,7 +14,7 @@ CLI tool written in Go to monitor HTTP endpoint availability over time, grouped 
 ### Clone and Run
 
 ```bash
-git clone https://github.com/your-username/fetch-health-check.git
+git clone https://github.com/saisampathb-usa/fetch-health-check.git
 cd fetch-health-check
 go mod tidy
 go run main.go config.yaml
